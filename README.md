@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p dir="auto">
 Nice to see you. I'm studying Back-end development with passion to be <b>full stack developer.</b><br> I have experience on : <br>
- HTML, Javascript, CSS, Java Spring, Mysql and Sometimes I have been interested in handling and analyzing datas using open-APIs.<br>
+ HTML, Javascript, CSS, Java Spring, Mysql and I have been quite interested in handling and analyzing datas using open-APIs.<br>
  I love outdoor activities like hiking, swimming, dive even surf.<g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">💖</g-emoji><br><br>
    <g-emoji class="g-emoji" alias="mountain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26f0.png">⛰</g-emoji> <g-emoji class="g-emoji" alias="surfer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png">🏄</g-emoji><br>
   I hope to share useful information with you through this page<g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> <br><br>
