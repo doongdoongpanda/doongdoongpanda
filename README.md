@@ -4,22 +4,6 @@
 ### Hi there 👋
 
 
-<!--
-**doongdoongpanda/doongdoongpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m stud
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <p dir="auto">
 Nice to see you. I'm studying Back-end development with passion to be <b>full stack developer.</b><br> I have experience on : <br>
  HTML, Javascript, CSS, Java Spring, Mysql and I have been quite interested in handling and analyzing datas using open-APIs.<br>
@@ -43,6 +27,8 @@ Nice to see you. I'm studying Back-end development with passion to be <b>full st
 <p dir="auto">
 <img src="https://camo.githubusercontent.com/91271f210478908838baa7463daa6af4c78827b2d4d0a1ddfcdaf254b41edf87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doongdoongpanda)](https://github.com/doongdoongpanda/github-readme-stats)
 
 <p>
 <br><h4>📫How to reach</h4> </p>
