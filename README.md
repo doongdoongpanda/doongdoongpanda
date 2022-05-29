@@ -15,21 +15,23 @@ Nice to see you. I'm studying Back-end development with passion to be <b>full st
 
 
 <p dir="auto">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <br>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">&nbsp
+ <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">&nbsp
+ <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"> &nbsp
+ <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"> 
 </p>
 <h4>Tools</h4>
 <p dir="auto">
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
