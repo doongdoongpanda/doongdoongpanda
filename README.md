@@ -6,7 +6,7 @@
 
 <p dir="auto">
 Nice to see you. I'm studying Back-end development with passion to be <b>full stack developer.</b><br> I have experience on : <br>
- HTML, Javascript, CSS, Java Spring, Mysql and I have been quite interested in handling and analyzing datas using open-APIs.<br>
+ Java, C, HTML, Javascript, CSS, JSP, Mysql and I have been quite interested in handling and analyzing datas using open-APIs.<br>
  I love outdoor activities like hiking, swimming, dive even surf.💖
 ⛰🏄<br><br>
   I hope to share useful information with you through this page✨<br><br>
